@@ -1,4 +1,4 @@
-
+ package Div2;
 import java.util.*;
 import java.io.*;
 public class A_BoyOrGirl{
@@ -15,5 +15,6 @@ public class A_BoyOrGirl{
             System.out.println(Arrays.toString(a));
         }
      System.out.println(Arrays.toString(a));   
+     sc.close();
     }
 }

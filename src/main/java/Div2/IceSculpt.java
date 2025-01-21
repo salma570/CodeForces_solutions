@@ -1,6 +1,7 @@
+package Div2;
 import java.util.*;
 import java.io.*;
-public class I2 {
+public class IceSculpt {
 	public static void main (String [] args) throws IOException{
 		Scanner sc= new Scanner(System.in);
 		PrintWriter pw = new PrintWriter(System.out);
