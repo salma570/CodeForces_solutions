@@ -1,4 +1,4 @@
-package Sheet2;
+package aditionalproblems;
 
 import java.io.IOException;
 import java.util.Scanner;
