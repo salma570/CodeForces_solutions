@@ -6,21 +6,23 @@ import java.io.*;
 public class WhereistheBishop{
 	
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException{
 		PrintWriter pw = new PrintWriter(System.out);
-		static Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
 		while(t-->0) {
 			solve();
 		}
 		pw.close();
-		sc.close();
+	}
+	public static void solve() {
+		
 	}
 }
 
 
 
-static class Scanner {
+final class Scanner {
 
 	StringTokenizer st;
 	BufferedReader br;

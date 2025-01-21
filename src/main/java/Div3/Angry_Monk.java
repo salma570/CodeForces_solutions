@@ -1,3 +1,5 @@
+package Div3;
+
 //https://codeforces.com/contest/1992/problem/B
 
 import java.io.*;
@@ -8,7 +10,8 @@ public class Angry_Monk {
         PrintWriter pw = new PrintWriter(System.out);
         int t=sc.nextInt();
         while (t-->0) {
-            int k=sc.nextInt();
+            @SuppressWarnings("unused")
+			int k=sc.nextInt();
             int n=sc.nextInt();
             int[] a=new int[n];
             for (int i=0;i<n;i++)
@@ -22,5 +25,6 @@ public class Angry_Monk {
         }
  
         pw.flush();
+        sc.close();
         }
 }

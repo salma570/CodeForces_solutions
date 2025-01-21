@@ -1,4 +1,4 @@
-package a;
+package Sheet1;
 import java.util.*;
 public class Sheet1 {
 	public static boolean unique(String s,char c) {

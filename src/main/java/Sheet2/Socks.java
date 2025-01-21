@@ -1,7 +1,8 @@
 package Sheet2;
-import java.util.*;
+import java.io.IOException;
+//import java.util.*;
 public class Socks {
-	public static void main(String[] args)  {
+	public static void main(String[] args) throws IOException  {
 		Scanner sc = new Scanner(System.in);
 		
 		int n = sc.nextInt();
@@ -35,7 +36,5 @@ public class Socks {
 		}
 		System.out.println(tableMAx);
 		
-		
-		sc.close();
 	}
 }

@@ -1,10 +1,10 @@
-package practce1;
+package practice1;
 
 
 
 import java.util.Scanner;
 
-public class oddEvenPrime {
+public class oddEven {
 
 	public static void main(String[] args) {
 
@@ -40,7 +40,7 @@ public class oddEvenPrime {
 		System.out.println(even);
 		System.out.println(odd);
 		System.out.println(prime);
-		
+		sc.close();	
 	}
 
 }

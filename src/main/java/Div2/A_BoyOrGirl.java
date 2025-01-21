@@ -10,7 +10,8 @@ public class A_BoyOrGirl{
 
         int [] a = new int [n];
         for(int i =0; i<n; i++){
-            int x = sc.nextInt();
+            @SuppressWarnings("unused")
+			int x = sc.nextInt();
             a[i-1]++;
             System.out.println(Arrays.toString(a));
         }

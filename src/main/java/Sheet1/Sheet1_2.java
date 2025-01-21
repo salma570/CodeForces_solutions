@@ -1,4 +1,4 @@
-package a;
+package Sheet1;
 import java.util.*;
 public class Sheet1_2 {
 	public static boolean distinct(int k) {

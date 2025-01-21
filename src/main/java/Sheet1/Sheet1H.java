@@ -1,4 +1,4 @@
-package a;
+package Sheet1;
 
 import java.util.Scanner;
 public class Sheet1H {

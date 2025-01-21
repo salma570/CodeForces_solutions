@@ -1,3 +1,4 @@
+package Div3;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 public class OnlyPulses {

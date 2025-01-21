@@ -1,3 +1,4 @@
+package Div3;
 import java.util.*;
 import java.io.*;
 public class Crocodiles {

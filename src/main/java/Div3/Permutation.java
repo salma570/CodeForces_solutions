@@ -1,3 +1,5 @@
+package Div3;
+
 import java.util.*;
 import java.io.*;
 
@@ -42,7 +44,8 @@ public class Permutation {
             while(t-->0) {
             	int n=sc.nextInt();
             	int m=sc.nextInt();
-            	int k=sc.nextInt();
+            	@SuppressWarnings("unused")
+				int k=sc.nextInt();
             	int[] a = new int[n];
             	int num=n;
             	int last=0;
