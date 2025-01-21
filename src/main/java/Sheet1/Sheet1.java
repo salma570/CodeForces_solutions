@@ -1,5 +1,5 @@
 package Sheet1;
-import java.util.*;
+import java.util.Scanner;
 public class Sheet1 {
 	public static boolean unique(String s,char c) {
 		for(int i =0; i<s.length();i++) {

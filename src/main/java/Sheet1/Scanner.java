@@ -1,8 +1,9 @@
+package Sheet1;
 import java.util.*;
 import java.io.*;
 
 
-public class Scanner {
+class Scanner {
 
 	StringTokenizer st;
 	BufferedReader br;

@@ -1,5 +1,5 @@
 package Sheet1;
-import java.util.*;
+import java.util.Scanner;
 public class Sheet1_2 {
 	public static boolean distinct(int k) {
 		String s = k+"";
